@@ -11,6 +11,7 @@ To explore the Titanic dataset, understand its structure, identify patterns, vis
 - NumPy
 - Matplotlib
 - Seaborn
+- Plotly
 
 
 ---
